@@ -7,7 +7,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "grave_accent_and_tilde",
+            "key_code": "non_us_backslash",
             "modifiers": {
               "mandatory": [
                 "option"
@@ -34,7 +34,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "non_us_backslash",
+            "key_code": "grave_accent_and_tilde",
             "modifiers": {
               "mandatory": [
                 "command"
@@ -56,7 +56,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "non_us_backslash"
+            "key_code": "grave_accent_and_tilde"
           },
           "to": [
             {
